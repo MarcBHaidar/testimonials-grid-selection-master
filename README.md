@@ -21,7 +21,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/MarcBHaidar/testimonials-grid-selection-master/blob/main/images/desktop-screenshot.jpg)
+![](https://github.com/MarcBHaidar/testimonials-grid-selection-master/blob/main/images/mobile-screenshot.jpg)
+
 
 
 ### Links
